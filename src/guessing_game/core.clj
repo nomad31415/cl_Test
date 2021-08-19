@@ -14,10 +14,12 @@
               (println "Guess the number:")
               (game-loop (eval-guess game-data (Integer/parseInt (read-line))))))))
 
-(defn- secret-until [n] (+ 1 (rand-int n)))
+(defn- et-until [n] (+ 1 (rand-int n)))
 
 (defn -main
   [& args]
   (do
     (println "Welcome to the Guessing the number game! (Clojure version)")
     (game-loop (new-game (secret-until 10) 3))))
+
+    
