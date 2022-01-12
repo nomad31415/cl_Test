@@ -1,0 +1,227 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.13.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+30 items
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Cheese$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Cheese.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\CrustSize.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\CrustType.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\HelloWorld$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\HelloWorld$delayedInit$body.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\HelloWorld.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\LargeCrustSize$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\LargeCrustSize.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\MediumCrustSize$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\MediumCrustSize.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Mushrooms$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Mushrooms.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Onions$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Onions.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Pepperoni$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Pepperoni.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Pizza$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Pizza.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\RegularCrustType$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\RegularCrustType.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Sausage$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Sausage.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\SmallCrustSize$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\SmallCrustSize.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\ThickCrustType$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\ThickCrustType.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\ThinCrustType$.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\ThinCrustType.class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Topping.class
+binary dependencies:
+2 items
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\Program Files\Java\jre1.8.0_192\lib\rt.jar
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> C:\Users\loura\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+30 items
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Cheese
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Cheese$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> CrustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> CrustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> HelloWorld
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> HelloWorld$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> HelloWorld$delayedInit$body
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> LargeCrustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> LargeCrustSize$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> MediumCrustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> MediumCrustSize$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Mushrooms
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Mushrooms$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Onions
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Onions$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Pepperoni
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Pepperoni$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Pizza
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Pizza$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> RegularCrustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> RegularCrustType$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Sausage
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Sausage$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> SmallCrustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> SmallCrustSize$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ThickCrustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ThickCrustType$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ThinCrustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ThinCrustType$
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Topping
+used names:
+63 items
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> +
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> +=
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> -=
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> <init>
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> <repeated>
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> A
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Any
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> AnyRef
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> App
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ArrayBuffer
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Boolean
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Cheese
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Class
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> CrustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> CrustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> HelloWorld
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Int
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Iterator
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> LargeCrustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> MediumCrustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ModuleSerializationProxy
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Mushrooms
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Nothing
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Object
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Onions
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Pepperoni
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Pizza
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Predef
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Product
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> RegularCrustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Sausage
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ScalaRunTime
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Serializable
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> SmallCrustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Statics
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> String
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> StringContext
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> StringOps
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> T
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ThickCrustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ThinCrustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Topping
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> Unit
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> _$3
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> addTopping
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> apply
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> augmentString
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> clear
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> collection
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> crustSize
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> crustType
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> ioobe
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> mutable
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> p
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> package
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> println
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> runtime
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> s
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> scala
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> stripMargin
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> t
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> toppings
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> typedProductIterator
+product stamps:
+30 items
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Cheese$.class -> lastModified(1641950286586)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Cheese.class -> lastModified(1641950286588)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\CrustSize.class -> lastModified(1641950286641)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\CrustType.class -> lastModified(1641950286669)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\HelloWorld$.class -> lastModified(1641950286679)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\HelloWorld$delayedInit$body.class -> lastModified(1641950286681)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\HelloWorld.class -> lastModified(1641950286680)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\LargeCrustSize$.class -> lastModified(1641950286648)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\LargeCrustSize.class -> lastModified(1641950286668)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\MediumCrustSize$.class -> lastModified(1641950286646)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\MediumCrustSize.class -> lastModified(1641950286647)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Mushrooms$.class -> lastModified(1641950286630)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Mushrooms.class -> lastModified(1641950286633)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Onions$.class -> lastModified(1641950286637)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Onions.class -> lastModified(1641950286639)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Pepperoni$.class -> lastModified(1641950286612)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Pepperoni.class -> lastModified(1641950286617)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Pizza$.class -> lastModified(1641950286678)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Pizza.class -> lastModified(1641950286677)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\RegularCrustType$.class -> lastModified(1641950286671)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\RegularCrustType.class -> lastModified(1641950286672)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Sausage$.class -> lastModified(1641950286622)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Sausage.class -> lastModified(1641950286626)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\SmallCrustSize$.class -> lastModified(1641950286643)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\SmallCrustSize.class -> lastModified(1641950286644)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\ThickCrustType$.class -> lastModified(1641950286675)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\ThickCrustType.class -> lastModified(1641950286675)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\ThinCrustType$.class -> lastModified(1641950286673)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\ThinCrustType.class -> lastModified(1641950286674)
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes\Topping.class -> lastModified(1641950286544)
+source stamps:
+1 items
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> hash(41747a625a35f739305865a4f401963e946a68f6)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_192\lib\rt.jar -> lastModified(1543114553475)
+C:\Users\loura\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.7.jar -> lastModified(1635778325000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_192\lib\rt.jar -> java.lang.Object
+C:\Users\loura\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.7.jar -> scala.Product
+internal apis:
+1 items
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwRqkTKQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA1c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqbGErHQABm5vdGlmeXNxAH4ADMb5cqZ0AAdUb3BwaW5nc3EAfgAMDD0G9XQABHdhaXRzcQB+AAxYVnPtdAAJQ3J1c3RTaXplc3EAfgAMsrQ1TnQABVBpenphc3EAfgAMOf4FEnQADHByb2R1Y3RBcml0eXNxAH4ADCoM+Bh0AAZlcXVhbHNzcQB+AAycNuQudAAMYXNJbnN0YW5jZU9mc3EAfgAMRysA03QADmV4ZWN1dGlvblN0YXJ0c3EAfgAM3PUeknQAD01lZGl1bUNydXN0U2l6ZXNxAH4ADI0xss90AAxzeW5jaHJvbml6ZWRzcQB+AAzWzoabdAARcmVtb3ZlQWxsVG9wcGluZ3NzcQB+AAxryAuOdAAIY2FuRXF1YWxzcQB+AAxeKVlndAAEbWFpbnNxAH4ADC2uril0AA1wcm9kdWN0UHJlZml4c3EAfgAMR2PLMnQAB1NhdXNhZ2VzcQB+AAw3ThP1dAAJbm90aWZ5QWxsc3EAfgAMos2thHQACU11c2hyb29tc3NxAH4ADKBIr2R0AAxpc0luc3RhbmNlT2ZzcQB+AAyH2nmndAAGT25pb25zc3EAfgAMP5I/N3QABjxpbml0PnNxAH4ADN+rJMF0AAlQZXBwZXJvbmlzcQB+AAypldIWdAAJQ3J1c3RUeXBlc3EAfgAMPfpA5nQAEFJlZ3VsYXJDcnVzdFR5cGVzcQB+AAwepv/ndAACPT1zcQB+AAzZCzErdAAOU21hbGxDcnVzdFNpemVzcQB+AAwRTSqgdAAFY2xvbmVzcQB+AAzIWg+fdAANcmVtb3ZlVG9wcGluZ3NxAH4ADF4PVnl0AAljcnVzdFNpemVzcQB+AAzYF+O6dAABcHNxAH4ADLdu8Xd0AAYkaW5pdCRzcQB+AAwUnfzVdAAOTGFyZ2VDcnVzdFNpemVzcQB+AAzn6O2cdAAIdG9TdHJpbmdzcQB+AAzxshKAdAAOVGhpY2tDcnVzdFR5cGVzcQB+AAx6qNMAdAAEYXJnc3NxAH4ADBsNPDF0AAIhPXNxAH4ADFwkDS90AAphZGRUb3BwaW5nc3EAfgAMDODio3QACkhlbGxvV29ybGRzcQB+AAw9MjqzdAAIZ2V0Q2xhc3NzcQB+AAzNZ9XkdAAScHJvZHVjdEVsZW1lbnROYW1lc3EAfgAMxhADnHQACWNydXN0VHlwZXNxAH4ADGZMPZF0AAZDaGVlc2VzcQB+AAzZn1UFdAANVGhpbkNydXN0VHlwZXNxAH4ADAOgc7h0AAJuZXNxAH4ADPpoaX50AAJlcXNxAH4ADF9TK0t0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxR6kfYdAAIdG9wcGluZ3NzcQB+AAyGyKrvdAALZGVsYXllZEluaXRzcQB+AAzZdAtqdAACIyNzcQB+AAzVZ0cddAAIZmluYWxpemVzcQB+AAwHLVDtdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzX06sYdAAIaGFzaENvZGVzcQB+AAw3WA5XdAATcHJvZHVjdEVsZW1lbnROYW1lc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAABBzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAlxAH4AEXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIFMAAlpbmhlcml0ZWRxAH4AgUwAB3BhcmVudHNxAH4AgXhxAH4AnnNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCddAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgC2dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC3c3EAfgCqdAADQW55c3EAfgCuc3EAfgCxdXEAfgC0AAAAAnNxAH4AtnQABXNjYWxhcQB+AL1zcQB+AH5xAH4Ai3VxAH4AjAAAAABzcQB+AI4AcQB+AGF1cQB+AJAAAAAAfnEAfgCSdAAGTW9kdWxldXEAfgCWAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AmXEAfgCfc3EAfgCZc3EAfgChc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+AKgAAAAGc3EAfgCqdAAMU2VyaWFsaXphYmxlc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgC5c3EAfgC2dAACaW9xAH4AvXNxAH4AqnQAB1Byb2R1Y3RzcQB+AK5zcQB+ALF1cQB+ALQAAAACc3EAfgC2cQB+AMRxAH4AvXNxAH4AqnQABkVxdWFsc3EAfgDgc3EAfgCqdAAHVG9wcGluZ3NxAH4ArnNxAH4AsXVxAH4AtAAAAAFxAH4AvXNxAH4AqnEAfgCtc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgC5c3EAfgC2cQB+ALtxAH4AvXNxAH4AqnEAfgC/cQB+AOBzcQB+AH5xAH4Ai3VxAH4AjAAAAABzcQB+AI4AcQB+ADl1cQB+AJAAAAAAcQB+AMl1cQB+AJYAAAABdAAMc2NhbGEubmF0aXZlc3EAfgCZcQB+AJ9zcQB+AJlzcQB+AKFzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AqAAAAAZzcQB+AKpxAH4A13NxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4AuXNxAH4AtnQAAmlvcQB+AL1zcQB+AKpxAH4A33NxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZxAH4AxHEAfgC9c3EAfgCqdAAGRXF1YWxzcQB+AQlzcQB+AKp0AAdUb3BwaW5nc3EAfgCuc3EAfgCxdXEAfgC0AAAAAXEAfgC9c3EAfgCqcQB+AK1zcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ALlzcQB+ALZxAH4Au3EAfgC9c3EAfgCqcQB+AL9xAH4BCXNxAH4AfnEAfgCLdXEAfgCMAAAAAHNxAH4AjgBxAH4ALXVxAH4AkAAAAABxAH4AyXVxAH4AlgAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+AJlxAH4An3NxAH4AmXNxAH4AoXNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXEAfgCoAAAABnNxAH4AqnEAfgDXc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgC5c3EAfgC2dAACaW9xAH4AvXNxAH4AqnEAfgDfc3EAfgCuc3EAfgCxdXEAfgC0AAAAAnNxAH4AtnEAfgDEcQB+AL1zcQB+AKp0AAZFcXVhbHNxAH4BMnNxAH4AqnQAB1RvcHBpbmdzcQB+AK5zcQB+ALF1cQB+ALQAAAABcQB+AL1zcQB+AKpxAH4ArXNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4AuXNxAH4AtnEAfgC7cQB+AL1zcQB+AKpxAH4Av3EAfgEyc3EAfgB+cQB+AIt1cQB+AIwAAAAAc3EAfgCOAHEAfgAxdXEAfgCQAAAAAHEAfgDJdXEAfgCWAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AmXEAfgCfc3EAfgCZc3EAfgChc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+AKgAAAAGc3EAfgCqcQB+ANdzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ALlzcQB+ALZ0AAJpb3EAfgC9c3EAfgCqcQB+AN9zcQB+AK5zcQB+ALF1cQB+ALQAAAACc3EAfgC2cQB+AMRxAH4AvXNxAH4AqnQABkVxdWFsc3EAfgFbc3EAfgCqdAAHVG9wcGluZ3NxAH4ArnNxAH4AsXVxAH4AtAAAAAFxAH4AvXNxAH4AqnEAfgCtc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgC5c3EAfgC2cQB+ALtxAH4AvXNxAH4AqnEAfgC/cQB+AVtzcQB+AH5xAH4Ai3VxAH4AjAAAAABzcQB+AI4AcQB+ADV1cQB+AJAAAAAAcQB+AMl1cQB+AJYAAAABdAAMc2NhbGEubmF0aXZlc3EAfgCZcQB+AJ9zcQB+AJlzcQB+AKFzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AqAAAAAZzcQB+AKpxAH4A13NxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4AuXNxAH4AtnQAAmlvcQB+AL1zcQB+AKpxAH4A33NxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZxAH4AxHEAfgC9c3EAfgCqdAAGRXF1YWxzcQB+AYRzcQB+AKp0AAdUb3BwaW5nc3EAfgCuc3EAfgCxdXEAfgC0AAAAAXEAfgC9c3EAfgCqcQB+AK1zcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ALlzcQB+ALZxAH4Au3EAfgC9c3EAfgCqcQB+AL9xAH4BhHNxAH4AfnEAfgCLdXEAfgC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zcQB+AJl1cQB+AKgAAAAGc3EAfgCqcQB+ANdzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ALlzcQB+ALZ0AAJpb3EAfgC9c3EAfgCqcQB+AN9zcQB+AK5zcQB+ALF1cQB+ALQAAAACc3EAfgC2cQB+AMRxAH4AvXNxAH4AqnQABkVxdWFsc3EAfgJcc3EAfgCqdAAJQ3J1c3RUeXBlc3EAfgCuc3EAfgCxdXEAfgC0AAAAAXEAfgC9c3EAfgCqcQB+AK1zcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ALlzcQB+ALZxAH4Au3EAfgC9c3EAfgCqcQB+AL9xAH4CXHNxAH4AfnEAfgCLdXEAfgCMAAAAAHNxAH4AjgBxAH4AY3VxAH4AkAAAAABxAH4AyXVxAH4AlgAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+AJlxAH4An3NxAH4AmXNxAH4AoXNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXEAfgCoAAAABnNxAH4AqnEAfgDXc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgC5c3EAfgC2dAACaW9xAH4AvXNxAH4AqnEAfgDfc3EAfgCuc3EAfgCxdXEAfgC0AAAAAnNxAH4AtnEAfgDEcQB+AL1zcQB+AKp0AAZFcXVhbHNxAH4ChXNxAH4AqnQACUNydXN0VHlwZXNxAH4ArnNxAH4AsXVxAH4AtAAAAAFxAH4AvXNxAH4AqnEAfgCtc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgC5c3EAfgC2cQB+ALtxAH4AvXNxAH4AqnEAfgC/cQB+AoVzcQB+AH5xAH4Ai3VxAH4AjAAAAABzcQB+AI4AcQB+AFF1cQB+AJAAAAAAcQB+AMl1cQB+AJYAAAABdAAMc2NhbGEubmF0aXZlc3EAfgCZcQB+AJ9zcQB+AJlzcQB+AKFzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AqAAAAAZzcQB+AKpxAH4A13NxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4AuXNxAH4AtnQAAmlvcQB+AL1zcQB+AKpxAH4A33NxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZxAH4AxHEAfgC9c3EAfgCqdAAGRXF1YWxzcQB+Aq5zcQB+AKp0AAlDcnVzdFR5cGVzcQB+AK5zcQB+ALF1cQB+ALQAAAABcQB+AL1zcQB+AKpxAH4ArXNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZxAH4AuXNxAH4AtnEAfgC7cQB+AL1zcQB+AKpxAH4Av3EAfgKuc3EAfgB+cQB+AIt1cQB+AIwAAAAAc3EAfgCOAHEAfgAXdXEAfgCQAAAAAH5xAH4AknQACENsYXNzRGVmdXEAfgCWAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AmXEAfgCfc3EAfgCZc3EAfgChc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+AKgAAAACc3EAfgCqcQB+AK1zcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ALlzcQB+ALZxAH4Au3EAfgC9c3EAfgCqcQB+AL9zcQB+AK5zcQB+ALF1cQB+ALQAAAACc3EAfgC2cQB+AMRxAH4AvXNxAH4AfnEAfgCLdXEAfgCMAAAAAHNxAH4AjgBxAH4AWXVxAH4AkAAAAABxAH4AyXVxAH4AlgAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3EAfgCZcQB+AJ9zcQB+AJlzcQB+AKFzcQB+AJl1cQB+AHwAAAAAc3EAfgCZdXEAfgB8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCCcQB+AIt1cQB+AIwAAAAAc3EAfgCOBHEAfgApdXEAfgCQAAAAAHNxAH4AqnQABFVuaXRzcQB+AK5zcQB+ALF1cQB+ALQAAAACc3EAfgC2cQB+AMRxAH4AvXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+Aut4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJN0AAVQbGFpbnEAfgBTc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCrWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCdc3EAfgCqdAAFQXJyYXlxAH4C83VxAH4AqAAAAAFzcQB+AKp0AAZTdHJpbmdzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2cQB+ALlzcQB+ALZxAH4Au3EAfgC9c3EAfgCZdXEAfgCoAAAABHNxAH4AqnQAA0FwcHEAfgLzc3EAfgCqdAALRGVsYXllZEluaXRxAH4C83NxAH4AqnEAfgCtcQB+AwxzcQB+AKpxAH4Av3EAfgLzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAX5L3PcKdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAU0M6XGdpdC1zZGstNjRcUHJvamVjdHNcLnNzaFxDbGoyXGNsX1Rlc3Rcc2NhbGFcSGVsbG9Xb3JsZFx0YXJnZXRcc2NhbGEtMi4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUQXR6Ylo19zkwWGWk9AGWPpRqaPY=
+external apis:
+0 items
+source infos:
+1 items
+C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABfkr5IQ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XGdpdC1zZGstNjRcUHJvamVjdHNcLnNzaFxDbGoyXGNsX1Rlc3Rcc2NhbGFcSGVsbG9Xb3JsZFx0YXJnZXRcc2NhbGEtMi4xM1xjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABfkr94+p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XGdpdC1zZGstNjRcUHJvamVjdHNcLnNzaFxDbGoyXGNsX1Rlc3Rcc2NhbGFcSGVsbG9Xb3JsZFx0YXJnZXRcc2NhbGEtMi4xM1xjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABfkvc9wp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XGdpdC1zZGstNjRcUHJvamVjdHNcLnNzaFxDbGoyXGNsX1Rlc3Rcc2NhbGFcSGVsbG9Xb3JsZFx0YXJnZXRcc2NhbGEtMi4xM1xjbGFzc2VzdAABLw==
