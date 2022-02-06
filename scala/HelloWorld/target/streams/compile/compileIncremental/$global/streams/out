@@ -2,39 +2,14 @@
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set(C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes...[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.13.7[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.13.7[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 36f93463, interfacing (CompilerInterface) with Scala compiler version 2.13.7[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_192\lib\resources.jar;C:\Program Files\Java\jre1.8.0_192\lib\rt.jar;C:\Program Files\Java\jre1.8.0_192\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_192\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_192\lib\jce.jar;C:\Program Files\Java\jre1.8.0_192\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_192\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_192\classes;C:\Users\loura\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.7.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\target\scala-2.13\classes[0m
-[0m[[0mdebug[0m] [0mScala compilation took 7.1977422 s[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] The C:\git-sdk-64\Projects\.ssh\Clj2\cl_Test\scala\HelloWorld\HelloWorld.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	notify, Topping, wait, CrustSize, Pizza, productArity, equals, asInstanceOf, MediumCrustSize, synchronized, removeAllToppings, canEqual, productPrefix, Sausage, notifyAll, Mushrooms, isInstanceOf, Onions, <init>, Pepperoni, CrustType, RegularCrustType, ==, SmallCrustSize, clone, removeTopping, crustSize, p, $init$, LargeCrustSize, toString, ThickCrustType, !=, addTopping, getClass, productElementName, crustType, Cheese, ThinCrustType, ne, eq, productIterator, toppings, ##, finalize, productElement, hashCode, productElementNames.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
-[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
-[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
