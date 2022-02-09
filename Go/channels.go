@@ -10,6 +10,7 @@ func sum(s []int, c chan int) {
 	c <- sum // send sum to c
 }
 
+
 func main() {
 	s := []int{7, 2, 8, -9, 4, 0}
 
